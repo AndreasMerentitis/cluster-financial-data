@@ -1,1 +1,31 @@
 # cluster-financial-data
+
+The goal is to get, cluster and visualize stock market data. The initial version
+is a small adaptation of the classic example from the first source, but more updates
+will come. 
+
+The dataset is derived using yfinance. The example is tested using python 3.8. 
+You can run the demo either directly (natively) or use repo2docker to configure 
+and run in docker.
+
+```bash
+# Example usage (natively): 
+$ pip install -r requirements.txt
+$ jupyter notebook 
+```
+
+```bash
+# Example usage (in docker): 
+$ sudo service docker restart
+$ jupyter-repo2docker https://github.com/AndreasMerentitis/cluster-financial-data
+```
+After this step copy the link that will be produced to your web browser and run the example from there
+
+
+![relative path 1](/Shampoo_sales_SARIMAX.jpeg?raw=true "Shampoo_sales_SARIMAX.jpeg")
+
+
+# Using data and extending the basic idea from these sources:
+* Gael Varoquaux's Agglomerative clustering example from previous versions of scikit learn 
+* https://github.com/erykml/medium_articles/blob/master/Quantitative%20Finance/downloading_stock_prices.ipynb
+

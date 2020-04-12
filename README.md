@@ -22,10 +22,10 @@ $ jupyter-repo2docker https://github.com/AndreasMerentitis/cluster-financial-dat
 After this step copy the link that will be produced to your web browser and run the example from there
 
 
-![relative path 1](/Shampoo_sales_SARIMAX.jpeg?raw=true "Shampoo_sales_SARIMAX.jpeg")
+![relative path 1](/Clustering companies 2001 2008.jpeg?raw=true "Clustering_2001_2008.jpeg")
 
 
 # Using data and extending the basic idea from these sources:
-* Gael Varoquaux's Agglomerative clustering example from previous versions of scikit learn 
+* Gael Varoquaux's agglomerative clustering example from previous versions of scikit learn 
 * https://github.com/erykml/medium_articles/blob/master/Quantitative%20Finance/downloading_stock_prices.ipynb
 

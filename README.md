@@ -22,7 +22,7 @@ $ jupyter-repo2docker https://github.com/AndreasMerentitis/cluster-financial-dat
 After this step copy the link that will be produced to your web browser and run the example from there
 
 
-![relative path 1](/Clustering companies 2001 2008.jpeg?raw=true "Clustering_2001_2008.jpeg")
+![relative path 1](/Clustering_companies_2001_2008.jpeg?raw=true "Clustering_2001_2008.jpeg")
 
 
 # Using data and extending the basic idea from these sources:

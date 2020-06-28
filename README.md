@@ -1,6 +1,6 @@
 # Clustering for financial data demo
 
-The goal is to get, cluster and visualize stock market data. The initial version
+The goal is to get, cluster, and visualize stock market data. The initial version
 is a small adaptation of the classic example from the first source, adding visualization
 with UMAP embeddings. 
 
